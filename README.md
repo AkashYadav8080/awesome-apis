@@ -302,6 +302,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 💗 Support
 
 Found it helpful? Give it a star ⭐ and consider contributing by sharing your favorite APIs.
+
 ---
 
 **Disclaimer**: API availability, pricing, and terms may change. Please check the official documentation for the most up-to-date information.
