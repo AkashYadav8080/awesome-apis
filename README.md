@@ -287,7 +287,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ```markdown
 ### API Name
 **Brief description**
-- **URL**: https://example.com/
+- **URL**: https://testapp.com/
 - **Description**: Detailed description of what the API does
 - **Features**: Key features and capabilities
 - **Pricing**: Pricing information
