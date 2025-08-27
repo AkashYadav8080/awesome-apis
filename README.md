@@ -44,7 +44,7 @@ curl "http://api.weatherstack.com/current?access_key=YOUR_API_KEY&query=New York
 ### NewsAPI
 **Search worldwide news with code**
 - **URL**: https://newsapi.org/
-- **Description**: Get breaking news headlines and search for articles from news sources and blogs across the web
+- **Description**: Get breaking news headlines and search for articles from news sources and blogs across the websites
 - **Features**: Breaking news, everything articles, top headlines, sources
 - **Pricing**: Free tier (1,000 requests/day), paid plans available
 - **Authentication**: API Key required
