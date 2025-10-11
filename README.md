@@ -1,4 +1,4 @@
-# Awesome APIs 🚀
+# Awesome APIs 🚀 
 
 > A curated list of awesome APIs for developers. Perfect for building applications, prototyping, and learning.
 
@@ -305,4 +305,4 @@ Found it helpful? Give it a star ⭐ and consider contributing by sharing your f
 
 ---
 
-**Disclaimer**: API availability, pricing, and terms may change. Please check the official documentation for the most up-to-date information.
+**Disclaimer**: API availability, pricing, and terms may change. Please check the official documentation for the most up-to-date information. 
